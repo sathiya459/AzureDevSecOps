@@ -1,5 +1,5 @@
 resource "azurerm_key_vault" "name" {
-  name = "testkv13235"
+  name = "testkv132356"
   resource_group_name = "rg-test"
   location = "East US"
   sku_name = "standard"
